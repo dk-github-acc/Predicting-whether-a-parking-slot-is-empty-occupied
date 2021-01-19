@@ -1,7 +1,6 @@
-# Digital-Image-Processing-Project
-Semester project for Digital Image Processing course - 
-Parking space occupancy detection using Convolutional Neural Network
+# Parking space occupancy detection using Convolutional Neural Network
 
+Semester project for Digital Image Processing course
 The CNN model mentioned in this project uses UFPR04 parking lot images. The model is trained and tested on these images.
 
 The python code to store the image pixels and their labels(in CSV and NPY files) is in file - xml_to_csv.ipynb, and the main code written to read, pre-process, visualize, train and test the CNN model, to evaluate the model's performance and to save the model can be found in file - CNN_parking.ipynb
